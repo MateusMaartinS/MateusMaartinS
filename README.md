@@ -17,7 +17,8 @@
     <img aling="center" alt="AndroidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div><br/>
 
-### Apaixonado por aprender coisas novas, e me aperfeiçoando no que ja sei. Meu objetivo é ser melhor do que ontem 😅
+### Apaixonado por aprender coisas novas, e me aperfeiçoando no que ja sei. 
+## Meu objetivo é ser melhor do que ontem 😅
 
 <br/>
 
