@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maartiyn_/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/znps5/)
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMaartinS&show_icons=false&theme=transparent)
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMaartinS&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
