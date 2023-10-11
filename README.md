@@ -6,7 +6,7 @@
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMaartinS&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=c%2B%2)
 
 ## Tecnologias que já desenvolvi
 
