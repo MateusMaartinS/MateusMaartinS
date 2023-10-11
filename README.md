@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maartiyn_/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/znps5/)
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMaartinS&show_icons=true&theme=transparent)
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMaartinS&show_icons=true&theme=transparent&hide=c%2B%2B)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
@@ -20,7 +20,6 @@
 </div><br/>
 
 ### Apaixonado por aprender coisas novas, e me aperfeiçoando no que ja sei. 
-## Meu objetivo é ser melhor do que ontem 😅
 
 <br/>
 
